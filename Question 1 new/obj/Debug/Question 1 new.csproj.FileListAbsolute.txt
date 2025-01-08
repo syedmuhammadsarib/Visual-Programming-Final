@@ -1,0 +1,15 @@
+C:\Users\cW\source\repos\Question 1 new\bin\Debug\Question 1 new.exe.config
+C:\Users\cW\source\repos\Question 1 new\bin\Debug\Question 1 new.exe
+C:\Users\cW\source\repos\Question 1 new\bin\Debug\Question 1 new.pdb
+C:\Users\cW\source\repos\Question 1 new\obj\Debug\Question 1 new.csproj.AssemblyReference.cache
+C:\Users\cW\source\repos\Question 1 new\obj\Debug\MainWindow.g.cs
+C:\Users\cW\source\repos\Question 1 new\obj\Debug\App.g.cs
+C:\Users\cW\source\repos\Question 1 new\obj\Debug\Question 1 new_MarkupCompile.cache
+C:\Users\cW\source\repos\Question 1 new\obj\Debug\Question 1 new_MarkupCompile.lref
+C:\Users\cW\source\repos\Question 1 new\obj\Debug\MainWindow.baml
+C:\Users\cW\source\repos\Question 1 new\obj\Debug\Question 1 new.g.resources
+C:\Users\cW\source\repos\Question 1 new\obj\Debug\Question_1_new.Properties.Resources.resources
+C:\Users\cW\source\repos\Question 1 new\obj\Debug\Question 1 new.csproj.GenerateResource.cache
+C:\Users\cW\source\repos\Question 1 new\obj\Debug\Question 1 new.csproj.CoreCompileInputs.cache
+C:\Users\cW\source\repos\Question 1 new\obj\Debug\Question 1 new.exe
+C:\Users\cW\source\repos\Question 1 new\obj\Debug\Question 1 new.pdb
